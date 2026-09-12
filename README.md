@@ -6,9 +6,7 @@ who knows...
 {
     "clientId" : "",
     "guildId" : "",
-    "token" : "",
-    "wikiApiKey": "",
-    "githubToken": ""
+    "token" : ""
 }
 
 Where:
@@ -18,10 +16,10 @@ Where:
 - the wikiApiKey is the api key from the admin panel of the Wiki, and
 - the githubToken is a (classic) personal access token for a GitHub account with access to the Baja Racing org
 
-2. Then, run npm i in order to install all node modules
-3. Run deploy-commands.js to send the commands to the discord server.
-4. Run npm start to begin hosting the bot
-5. Host index.js as long as you'd like to run the discord bot
+1. Then, run npm i in order to install all node modules
+2. Run deploy-commands.js to send the commands to the discord server.
+3. Run npm start to begin hosting the bot
+4. Host index.js as long as you'd like to run the discord bot
 
 # Docker
 - tbd
