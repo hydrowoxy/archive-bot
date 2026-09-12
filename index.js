@@ -1,4 +1,3 @@
-// Require the necessary default, discordJS and mongo classes
 const fs = require('fs');
 const { Client, Collection, GatewayIntentBits, Partials } = require('discord.js');
 const { token } = require('./config.json');
